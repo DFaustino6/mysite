@@ -1,0 +1,5 @@
+django-admin startproject "name"
+pip install django 
+python -m pip install -U pip
+python manage.py startapp main
+python manage.py runserver
