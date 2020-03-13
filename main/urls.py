@@ -20,5 +20,5 @@ app_name="main"
 
 urlpatterns = [
     path("",views.homepage,name="homepage"),
-    path("proporatividade",views)
+    path("proporatividade",views.proporatividade,name="proporAtividade"),
 ]

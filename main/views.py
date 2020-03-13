@@ -6,6 +6,6 @@ def homepage(request):
 	return render(request=request,
 				  template_name="inicio.html",)
 
-def proporAtividade(request):
+def proporatividade(request):
 	return render(request=request,
 				  template_name="proporatividade.html",)
