@@ -17,12 +17,6 @@
   min-height: 70vh;
 }
 
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-
 /*! bulma.io v0.8.0 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
   from {
